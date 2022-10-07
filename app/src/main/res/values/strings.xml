@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad3LuckyDiceRoll</string>
+    <string name="probar_suerte">Probar Suerte</string>
+    <string name="pobar_suerte">Pobar suerte</string>
+    <string name="lucky">Lucky</string>
+    <string name="lanzar">Lanzar</string>
+    <string name="_0">0</string>
+</resources>
